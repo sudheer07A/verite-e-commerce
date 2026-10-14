@@ -1,0 +1,380 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Classic Oxford Shirt",
+    "price": 89,
+    "images": [
+      "https://images.unsplash.com/photo-1598033129519-c90900bc9de1?w=500&h=667&fit=crop"
+    ],
+    "category": "shirts"
+  },
+  "2": {
+    "id": 2,
+    "name": "Premium Linen Shirt",
+    "price": 95,
+    "images": [
+      "https://images.unsplash.com/photo-1608659335941-32ac5f2041b9?w=500&h=667&fit=crop"
+    ],
+    "category": "shirts"
+  },
+  "3": {
+    "id": 3,
+    "name": "Relaxed Fit Shirt",
+    "price": 79,
+    "images": [
+      "https://images.unsplash.com/photo-1596455156944-f6b1c73fbf90?w=500&h=667&fit=crop"
+    ],
+    "category": "shirts"
+  },
+  "4": {
+    "id": 4,
+    "name": "Premium Black Shirt",
+    "price": 85,
+    "images": [
+      "https://images.unsplash.com/photo-1611312449408-fcece27cdbb7?w=500&h=667&fit=crop"
+    ],
+    "category": "shirts"
+  },
+  "5": {
+    "id": 5,
+    "name": "Slim Fit Formal Shirt",
+    "price": 99,
+    "images": [
+      "https://images.unsplash.com/photo-1587831990143-faf78868cc45?w=500&h=667&fit=crop"
+    ],
+    "category": "shirts"
+  },
+  "6": {
+    "id": 6,
+    "name": "Casual Printed Shirt",
+    "price": 69,
+    "images": [
+      "https://images.unsplash.com/photo-1577005015051-104a02bad6a9?w=500&h=667&fit=crop"
+    ],
+    "category": "shirts"
+  },
+  "101": {
+    "id": 101,
+    "name": "Essential White Tee",
+    "price": 35,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500&h=667&fit=crop"
+    ],
+    "category": "tshirts"
+  },
+  "102": {
+    "id": 102,
+    "name": "Oversized Graphic Tee",
+    "price": 45,
+    "images": [
+      "https://images.unsplash.com/photo-1503342217505-c6a1ecf77d82?w=500&h=667&fit=crop"
+    ],
+    "category": "tshirts"
+  },
+  "103": {
+    "id": 103,
+    "name": "Premium Comfort Tee",
+    "price": 42,
+    "images": [
+      "https://images.unsplash.com/photo-1495521821757-a1efb6729352?w=500&h=667&fit=crop"
+    ],
+    "category": "tshirts"
+  },
+  "104": {
+    "id": 104,
+    "name": "Vintage Wash Tee",
+    "price": 48,
+    "images": [
+      "https://images.unsplash.com/photo-1487215078519-e21cc028cb29?w=500&h=667&fit=crop"
+    ],
+    "category": "tshirts"
+  },
+  "105": {
+    "id": 105,
+    "name": "Minimal Logo Tee",
+    "price": 39,
+    "images": [
+      "https://images.unsplash.com/photo-1513621776144-60967b0f800f?w=500&h=667&fit=crop"
+    ],
+    "category": "tshirts"
+  },
+  "106": {
+    "id": 106,
+    "name": "Stripe Comfort Tee",
+    "price": 41,
+    "images": [
+      "https://images.unsplash.com/photo-1516163857282-01426400299d?w=500&h=667&fit=crop"
+    ],
+    "category": "tshirts"
+  },
+  "201": {
+    "id": 201,
+    "name": "Tailored Wool Trousers",
+    "price": 129,
+    "images": [
+      "https://images.unsplash.com/photo-1519762211695-e96f265b0e5e?w=500&h=667&fit=crop"
+    ],
+    "category": "pants"
+  },
+  "202": {
+    "id": 202,
+    "name": "Chino Pants",
+    "price": 75,
+    "images": [
+      "https://images.unsplash.com/photo-1473080169858-8921573874d7?w=500&h=667&fit=crop"
+    ],
+    "category": "pants"
+  },
+  "203": {
+    "id": 203,
+    "name": "Wide Leg Trousers",
+    "price": 99,
+    "images": [
+      "https://images.unsplash.com/photo-1544637331-e89bad7d3051?w=500&h=667&fit=crop"
+    ],
+    "category": "pants"
+  },
+  "204": {
+    "id": 204,
+    "name": "Smart Casual Pants",
+    "price": 68,
+    "images": [
+      "https://images.unsplash.com/photo-1516826957519-f06025da7d18?w=500&h=667&fit=crop"
+    ],
+    "category": "pants"
+  },
+  "205": {
+    "id": 205,
+    "name": "Pleated Front Trousers",
+    "price": 115,
+    "images": [
+      "https://images.unsplash.com/photo-1542150908842-0b0d74f49518?w=500&h=667&fit=crop"
+    ],
+    "category": "pants"
+  },
+  "206": {
+    "id": 206,
+    "name": "Linen Blend Trousers",
+    "price": 85,
+    "images": [
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=667&fit=crop"
+    ],
+    "category": "pants"
+  },
+  "301": {
+    "id": 301,
+    "name": "Classic Denim Jeans",
+    "price": 99,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-787c62d465d1?w=500&h=667&fit=crop"
+    ],
+    "category": "jeans"
+  },
+  "302": {
+    "id": 302,
+    "name": "Skinny Fit Jeans",
+    "price": 89,
+    "images": [
+      "https://images.unsplash.com/photo-1542112007-1213e5fe29c2?w=500&h=667&fit=crop"
+    ],
+    "category": "jeans"
+  },
+  "303": {
+    "id": 303,
+    "name": "Relaxed Fit Jeans",
+    "price": 95,
+    "images": [
+      "https://images.unsplash.com/photo-1542105503-f7e8e4cd0d5e?w=500&h=667&fit=crop"
+    ],
+    "category": "jeans"
+  },
+  "304": {
+    "id": 304,
+    "name": "Distressed Denim",
+    "price": 109,
+    "images": [
+      "https://images.unsplash.com/photo-1542107503-6f4ee4991b04?w=500&h=667&fit=crop"
+    ],
+    "category": "jeans"
+  },
+  "305": {
+    "id": 305,
+    "name": "Premium Black Jeans",
+    "price": 119,
+    "images": [
+      "https://images.unsplash.com/photo-1542106909-887e6c9d96f8?w=500&h=667&fit=crop"
+    ],
+    "category": "jeans"
+  },
+  "306": {
+    "id": 306,
+    "name": "Slim Straight Jeans",
+    "price": 105,
+    "images": [
+      "https://images.unsplash.com/photo-1542109503-0de1f4cd2c08?w=500&h=667&fit=crop"
+    ],
+    "category": "jeans"
+  },
+  "401": {
+    "id": 401,
+    "name": "Wool Blazer",
+    "price": 199,
+    "images": [
+      "https://images.unsplash.com/photo-1591047990118-85d7b0c04f35?w=500&h=667&fit=crop"
+    ],
+    "category": "jackets"
+  },
+  "402": {
+    "id": 402,
+    "name": "Leather Jacket",
+    "price": 299,
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16ebc5?w=500&h=667&fit=crop"
+    ],
+    "category": "jackets"
+  },
+  "403": {
+    "id": 403,
+    "name": "Denim Jacket",
+    "price": 89,
+    "images": [
+      "https://images.unsplash.com/photo-1551530820-9c037cb4f32a?w=500&h=667&fit=crop"
+    ],
+    "category": "jackets"
+  },
+  "404": {
+    "id": 404,
+    "name": "Bomber Jacket",
+    "price": 129,
+    "images": [
+      "https://images.unsplash.com/photo-1551154677-8cbb22f43f48?w=500&h=667&fit=crop"
+    ],
+    "category": "jackets"
+  },
+  "405": {
+    "id": 405,
+    "name": "Puffer Jacket",
+    "price": 159,
+    "images": [
+      "https://images.unsplash.com/photo-1551154677-9a68b67e8bff?w=500&h=667&fit=crop"
+    ],
+    "category": "jackets"
+  },
+  "406": {
+    "id": 406,
+    "name": "Casual Overshirt",
+    "price": 99,
+    "images": [
+      "https://images.unsplash.com/photo-1551154677-9a68b67e8bfb?w=500&h=667&fit=crop"
+    ],
+    "category": "jackets"
+  },
+  "501": {
+    "id": 501,
+    "name": "Premium Hoodie",
+    "price": 79,
+    "images": [
+      "https://images.unsplash.com/photo-1556821552-23d516c5e9c9?w=500&h=667&fit=crop"
+    ],
+    "category": "hoodies"
+  },
+  "502": {
+    "id": 502,
+    "name": "Fleece Lined Hoodie",
+    "price": 85,
+    "images": [
+      "https://images.unsplash.com/photo-1556821552-a4c0cf92b4e4?w=500&h=667&fit=crop"
+    ],
+    "category": "hoodies"
+  },
+  "503": {
+    "id": 503,
+    "name": "Zip-Up Hoodie",
+    "price": 75,
+    "images": [
+      "https://images.unsplash.com/photo-1556821552-a4c0cf92b4e5?w=500&h=667&fit=crop"
+    ],
+    "category": "hoodies"
+  },
+  "504": {
+    "id": 504,
+    "name": "Oversized Hoodie",
+    "price": 82,
+    "images": [
+      "https://images.unsplash.com/photo-1556821553-0b6c5b6e5b5b?w=500&h=667&fit=crop"
+    ],
+    "category": "hoodies"
+  },
+  "505": {
+    "id": 505,
+    "name": "Graphic Print Hoodie",
+    "price": 88,
+    "images": [
+      "https://images.unsplash.com/photo-1556821552-a4c0cf92b4e6?w=500&h=667&fit=crop"
+    ],
+    "category": "hoodies"
+  },
+  "506": {
+    "id": 506,
+    "name": "Minimalist Hoodie",
+    "price": 78,
+    "images": [
+      "https://images.unsplash.com/photo-1556821552-a4c0cf92b4e7?w=500&h=667&fit=crop"
+    ],
+    "category": "hoodies"
+  },
+  "601": {
+    "id": 601,
+    "name": "Premium Leather Belt",
+    "price": 65,
+    "images": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500&h=500&fit=crop"
+    ],
+    "category": "accessories"
+  },
+  "602": {
+    "id": 602,
+    "name": "Wool Beanie",
+    "price": 35,
+    "images": [
+      "https://images.unsplash.com/photo-1574512611112-bc2534e23e3e?w=500&h=500&fit=crop"
+    ],
+    "category": "accessories"
+  },
+  "603": {
+    "id": 603,
+    "name": "Canvas Backpack",
+    "price": 95,
+    "images": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a63?w=500&h=500&fit=crop"
+    ],
+    "category": "accessories"
+  },
+  "604": {
+    "id": 604,
+    "name": "Silk Scarf",
+    "price": 45,
+    "images": [
+      "https://images.unsplash.com/photo-1566552881547-b4e97d76049a?w=500&h=500&fit=crop"
+    ],
+    "category": "accessories"
+  },
+  "605": {
+    "id": 605,
+    "name": "Leather Wallet",
+    "price": 55,
+    "images": [
+      "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=500&h=500&fit=crop"
+    ],
+    "category": "accessories"
+  },
+  "606": {
+    "id": 606,
+    "name": "Cotton Socks Set",
+    "price": 25,
+    "images": [
+      "https://images.unsplash.com/photo-1543163521-9159a4ec888f?w=500&h=500&fit=crop"
+    ],
+    "category": "accessories"
+  }
+}
